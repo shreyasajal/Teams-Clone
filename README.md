@@ -6,5 +6,6 @@ Our application uses: WebRTC, JavaScript, Socket.IO, Express.js, Node.js, React,
 Redux
 Deployed Project Link:https://teams-front.herokuapp.com/
 Documentation:https://drive.google.com/file/d/1tJWUOQ6dbS_3Jd8QsM_xdmx3fmMd5ZAC/view?usp=sharing
-#Project Directory structure
+
+# Project Directory structure
 ![Screenshot (227)](https://user-images.githubusercontent.com/58565264/125444933-6de2acf5-113a-4c70-8a3b-dab27e127d26.png)
