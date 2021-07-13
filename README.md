@@ -11,5 +11,10 @@ Reference Videos Links:
 * https://www.youtube.com/watch?v=DvlyzDZDEq4
 * Playlist:https://www.youtube.com/watch?v=h2WkZ0h0-Rc&list=PL_YW-znSZ_dK365WaVuiBUN6FYc9_1hni
 
+While running the code locally :
+* One can use their turn server credentials from Twilio (free) to generate the token and use in Backend/server.js- app.get in accountSid and authToken.(Sharing my authtoken publically revokes the token and stops the deployed app to avoid fraud)
+* Change the server as const SERVER = 'http://localhost:5000'; in wssConnection.js file in frontend/src/utils
+* Change the axios.get code to axios.get("https://localhost:5000/api/get-turn-credentials") in Dashboard.js in frontend/src/Dashboard 
+
 # Project Directory structure
 ![Screenshot (227)](https://user-images.githubusercontent.com/58565264/125444933-6de2acf5-113a-4c70-8a3b-dab27e127d26.png)
