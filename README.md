@@ -5,7 +5,7 @@ direct calls and PeerJs( (library to make WebRTC implementation easier in small 
 group calls. I have used Socket.IO as the signaling server for the application.
 Our application uses: WebRTC, JavaScript, Socket.IO, Express.js, Node.js, React,
 Redux
-Deployed Project Link:https://teams-front.herokuapp.com/
+Deployed Project Link:https://teams-front.herokuapp.com/  (Try loading twice  if the app doesn't load in first attempt,close the tab and load again)
 Documentation:https://drive.google.com/file/d/1tJWUOQ6dbS_3Jd8QsM_xdmx3fmMd5ZAC/view?usp=sharing
 Reference Videos Links:
 * https://www.youtube.com/watch?v=XWL_Rzqk4CY
